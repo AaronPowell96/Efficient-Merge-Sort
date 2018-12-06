@@ -1,1 +1,3 @@
-"# Efficient-Merge-Sort" 
+<h1> Bottom up 'efficient' merge-sort </h1>
+<p>As an assignment this program was created to sort a linked list efficiently using a type of merge sort,
+I sorted bottom up and also checked for lists or segments of a list that were already sorted to break them off and not waste time sorting them.</p> <p>Sorting lists up to 7000 elements, with the only constraint being deep recursion due to the tailString method, where this could be turned to a stringBuilder and sort listed to a much higher level.</p>
